@@ -1,0 +1,21 @@
+{
+  "name": "tekbnk",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "chore: publish TECHBANK20-6576",
+      "registry": "https://pkgs.dev.azure.com/technisys/1e96a6ee-c8fb-448c-a57b-fac1daaebc90/_packaging/cyberbank-icons/npm/registry/",
+      "allowBranches": [
+        "trunk"
+      ],
+      "ignoreChanges": [
+        "**/*.md",
+        "web/.npmrc",
+        "sonar"
+      ]
+    }
+  },
+  "version": "0.0.10"
+}
