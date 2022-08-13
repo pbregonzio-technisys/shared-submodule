@@ -1,5 +1,6 @@
 {
   "name": "@tec-cyberbank-channels/lib-shared-profile-module",
+  "private": true,
   "version": "0.0.10",
   "main": "dist/index.js",
   "files": [
