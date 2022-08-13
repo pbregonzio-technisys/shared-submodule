@@ -1,3 +1,3 @@
 import * as React from 'react';
 
-export const lala = () => <>lala</>;
+export const Lala = () => <>lala</>;
